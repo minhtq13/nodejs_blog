@@ -27,7 +27,8 @@
   "homepage": "https://github.com/minhtq13/nodejs_blog#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "express-handlebars": "^6.0.7"
+    "express-handlebars": "^6.0.7",
+    "mongoose": "^6.9.2"
   },
   "devDependencies": {
     "morgan": "^1.10.0",
